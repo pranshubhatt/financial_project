@@ -62,9 +62,6 @@ The **Financial Insights Dashboard and Scoring Model** aims to evaluate financia
 - **Tools**: Jupyter Notebook, Postman
 
 ---
-
-## File Structure
-
 ## File Structure
 - `code.ipynb`: Jupyter Notebook for data processing, visualizations, and scoring.
 - `dataset.xlsx`: Dataset for the project.
