@@ -40,8 +40,11 @@ The **Financial Insights Dashboard and Scoring Model** aims to evaluate financia
   - 
 - **Interactive Simulation**:
   - Users can simulate financial improvements and view updated scores.
+  - ![Screenshot 2024-11-24 120423](https://github.com/user-attachments/assets/36097990-8987-4412-810c-6e633f944b35)
 - **API**: A Flask API to compute financial scores and provide insights.
+- ![Screenshot 2024-11-24 114840](https://github.com/user-attachments/assets/2efa30ff-88f5-4053-ae96-77baab19b266)
 - **Streamlit Dashboard**: An interactive interface for users to explore financial insights.
+- 
 
 ---
 
