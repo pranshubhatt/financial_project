@@ -45,6 +45,9 @@ The **Financial Insights Dashboard and Scoring Model** aims to evaluate financia
 - ![Screenshot 2024-11-24 114840](https://github.com/user-attachments/assets/2efa30ff-88f5-4053-ae96-77baab19b266)
 - **Streamlit Dashboard**: An interactive interface for users to explore financial insights.
 - 
+![Screenshot 2024-11-24 120436](https://github.com/user-attachments/assets/ff3834a0-21dd-40a5-a6f2-804897be9b5b)
+![Screenshot 2024-11-24 120457](https://github.com/user-attachments/assets/6b133fca-ddbe-4d51-9a88-43cfc987a5da)
+- 
 
 ---
 
