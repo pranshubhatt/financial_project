@@ -34,8 +34,8 @@ The **Financial Insights Dashboard and Scoring Model** aims to evaluate financia
 - **Visualizations**:
   - Spending trends over time.![Screenshot 2024-11-24 123238](https://github.com/user-attachments/assets/cf21b2a4-d752-49d3-9826-90c0b9496f7f)
   - 
-  - Category-wise spending distribution.
-  - Top families by financial scores.
+  - Category-wise spending distribution.![Screenshot 2024-11-24 123232](https://github.com/user-attachments/assets/b7a65b3c-5b6e-4f15-bc0a-56483dd8402c)
+  - Top families by financial scores.![Screenshot 2024-11-24 123242](https://github.com/user-attachments/assets/aa41bc90-72ee-4b88-acf6-8f529865d151)
   - Correlation matrix for financial metrics.![Screenshot 2024-11-24 123155](https://github.com/user-attachments/assets/c8856cac-f5c1-4831-98f3-4599a98c3982)
   - 
 - **Interactive Simulation**:
