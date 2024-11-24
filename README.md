@@ -65,14 +65,10 @@ The **Financial Insights Dashboard and Scoring Model** aims to evaluate financia
 
 ## File Structure
 
-```plaintext
-financial_project/
-├── app/
-│   ├── financial_api.py       # Flask API
-├── data/
-│   ├── dataset.xlsx           # Dataset
-├── notebooks/
-│   ├── code.ipynb             # Jupyter Notebook with visualizations and logic
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-└── setup_instructions.md      # Installation and usage instructions
+## File Structure
+- `code.ipynb`: Jupyter Notebook for data processing, visualizations, and scoring.
+- `dataset.xlsx`: Dataset for the project.
+- `financial_api.py`: Flask API to compute financial scores.
+- `financial_app.py`: Streamlit app for interactive analysis.
+- `requirements.txt`: Python dependencies.
+- `README.md`: Project documentation.└── setup_instructions.md      # Installation and usage instructions
